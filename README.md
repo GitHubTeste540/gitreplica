@@ -1,11 +1,3 @@
-#oi
+#funcionou
 
-HELO WORLD
-
-#OLA
-
-PALMEIRAS E O MELHOR DO BRASIL
-
-FLAMENGO O CARALHO
-
-VSAODSAKDOAODAKDCOOOOO
+finalmente funcionou essa porrra
